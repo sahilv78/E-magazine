@@ -1,0 +1,22 @@
+<h1>This is a Sample Article</h1>
+<br>
+<h2>Exploring the <u>Wonders</u> of Nature</h2>
+<br>
+<p>Nature is a <b>majestic force</b> that <i>inspires awe</i> and <u>instills serenity</u> in our souls. From the <b>towering mountains</b> to the <i>whispering breeze</i>, every aspect of nature <u>holds a story</u> waiting to be discovered.</p>
+<br>
+<h3>The <i>Power</i> of the Great Outdoors</h3>
+<br>
+<p>Heading out into the wilderness, one can't help but <b>feel rejuvenated</b> by the <i>untamed beauty</i> surrounding them. The <u>rustling leaves</u> and <b>singing birds</b> create a <i>symphony of life</i> that <u>connects us</u> to something greater than ourselves.</p>
+<br>
+<h4>Exploring <b>Hidden Gems</b></h4>
+<br>
+<p>Delving deeper, we uncover <b>hidden gems</b> tucked away in <i>quiet corners</i> of the world. <u>Secret waterfalls</u> cascade down <i>lush valleys</i>, and <b>hidden trails</b> lead to <u>secluded beaches</u> where the <i>sun kisses</i> the horizon.</p>
+<br>
+<h5>Preserving <u>Natural Beauty</u></h5>
+<br>
+<p>As we <b>immerse ourselves</b> in the <i>beauty</i> of nature, it becomes <u>imperative</u> to <b>protect and preserve</b> it for <i>future generations</i>. Each <u>footprint</u> we leave should be <b>gentle</b>, and each <i>moment</i> spent in nature should be <b>cherished</b>.</p>
+<br>
+<h6>Finding <i>Solace</i> in the Wild</h6>
+<br>
+<p>In the embrace of nature, we find <b>solace</b> from the chaos of everyday life. Whether it's a <i>starry night</i> under the open sky or a <u>quiet morning</u> by the <i>rippling stream</i>, nature <b>offers</b> us <u>peace</u> and <i>tranquility</i> in abundance.</p>
+<br>
